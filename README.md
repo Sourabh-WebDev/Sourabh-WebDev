@@ -51,7 +51,7 @@
 <p align="center">
   I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team.
   <br><br>
-  <a href="https://www.linkedin.com/in/Sourabh-WebDev/">
+  <a href="https://www.linkedin.com/in/sourabh-vermaweb-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vermaanurag222@gmail.com">
