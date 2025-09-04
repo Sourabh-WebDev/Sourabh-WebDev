@@ -1,31 +1,60 @@
-<h1 align="center">Hi 👋, I'm Sourabh Verma </h1>
-<h3 align="center">A passionate Front-end Developer from [Your Location]</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="[YOUR_GITHUB_USERNAME]" /> </p>
-
-- 🔭 I’m currently working on **[Your Project Name]**
-- 🌱 I’m currently learning **[Technology/Language]**
-- 💬 Ask me about **[Your Area of Expertise]**
-- 📫 How to reach me **[your.email@example.com]**
-- ⚡ Fun fact: **[A Fun Fact About You]**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YOUR_LINKEDIN_USERNAME]" height="30" width="40" /></a>
-<a href="https://twitter.com/[YOUR_TWITTER_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[YOUR_TWITTER_USERNAME]" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/[YOUR_STACKOVERFLOW_ID]/[YOUR_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="[YOUR_USERNAME]" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/[YOUR_LEETCODE_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="[YOUR_LEETCODE_USERNAME]" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://i.imgur.com/7FrJ4TL.png" alt="Sourabh Verma - Frontend Developer Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,c,cpp,css,docker,figma,firebase,git,github,html,java,js,kotlin,kubernetes,md,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vite&perline=9" />
+<h1 align="center">Hi there, I'm Sourabh Verma 👋</h1>
+
+<p align="center">
+  A passionate and experienced Frontend Developer with over 3.5 years of experience building scalable, responsive, and high-performance web applications. I currently work at <strong>Accolite Digital</strong>, where I specialize in the React ecosystem, TypeScript, and modern web technologies to create exceptional user experiences.
+</p>
+
+---
+
+### 🚀 What I'm Currently Focusing On
+
+- 💻   Spearheading the development of robust user interfaces using **React.js, Next.js, and TypeScript**.
+- 🛠️   Engineering responsive and accessible UIs by translating complex Figma designs into high-quality, pixel-perfect code.
+- 🧪   Championing code quality and maintainability through comprehensive testing with **Jest and React Testing Library**.
+- ⚡   Optimizing application performance and ensuring a seamless user experience across all devices.
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <strong>Languages & Core Technologies:</strong><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,html,css" alt="Languages & Frameworks" /><br><br>
+  
+  <strong>Styling & UI:</strong><br>
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents,sass" alt="Styling" /><br><br>
+  
+  <strong>Testing & Tooling:</strong><br>
+  <img src="https://skillicons.dev/icons?i=jest,reacttestinglibrary,vite,webpack,git,github" alt="Testing & Tooling" />
+</p>
+
+---
+
+### 📊 My GitHub Activity
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourabh-vermaweb-dev&show_icons=true&theme=gruvbox_dark&hide_border=true&title_color=66c2cd&icon_color=66c2cd" alt="Sourabh Verma's GitHub Stats" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-vermaweb-dev&layout=compact&theme=gruvbox_dark&hide_border=true&title_color=66c2cd&langs_count=8" alt="Sourabh Verma's Top Languages" />
+</p>
+<p align="center">
+  <em>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect my full experience or skill level.</em>
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team.
+  <br><br>
+  <a href="https://www.linkedin.com/in/sourabh-vermaweb-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=[YOUR_GITHUB_USERNAME]&show_icons=true&locale=en&layout=compact" alt="[YOUR_GITHUB_USERNAME]" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&locale=en" alt="[YOUR_GITHUB_USERNAME]" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&" alt="[YOUR_GITHUB_USERNAME]" /></p>
+  <a href="mailto:vermaanurag222@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  </p>
