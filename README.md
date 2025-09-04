@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents,sass" alt="Styling" /><br><br>
   
   <strong>Testing & Tooling:</strong><br>
-  <img src="https://skillicons.dev/icons?i=jest,reacttestinglibrary,vite,webpack,git,github" alt="Testing & Tooling" />
+  <img src="https://skillicons.dev/icons?i=jest,vite,webpack,git,github" alt="Testing & Tooling" />
 </p>
 
 ---
